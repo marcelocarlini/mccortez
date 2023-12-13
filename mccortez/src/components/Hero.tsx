@@ -2,7 +2,7 @@ import { HiDownload } from "react-icons/hi";
 export function Hero() {
   const handleDownload = () => {
     const downloadLink = document.createElement("a");
-    downloadLink.href = "./src/img/curriculo.pdf";
+    downloadLink.href = "./public/images/curriculo.pdf";
     downloadLink.download = "curriculo.pdf";
     document.body.appendChild(downloadLink);
     downloadLink.click();
