@@ -12,7 +12,7 @@ export function About() {
           Olá! Sou um cara apaixonado por tecnologia, formado em Análise e
           Desenvolvimento de Sistemas. Embora eu ainda não tenha trabalhado
           profissionalmente como desenvolvedor, tenho conhecimento sólido em
-          teoria e alguma prática em tecnologias como React JS, PHP, Laravel, HTML,
+          teoria e alguma prática em tecnologias como React JS, Javascript, PHP, Laravel, HTML,
           CSS, Bootstrap e Tailwind. Além disso, sei lidar com MySQL para
           gerenciamento de bancos de dados.
         </p>
