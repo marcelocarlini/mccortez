@@ -35,9 +35,10 @@ export function Hero() {
 
           <div className="flex items-center justify-center md:justify-start gap-2">
             <a
-              href="#"
+              href=/* "#" */ {curriculoPDF}
               className="button text-gray-600 hover:text-gray-900 flex items-center gap-2"
-              onClick={handleDownload}
+              /* onClick={handleDownload} */
+              download="curriculo.pdf"
             >
               <HiDownload />
               Baixe meu CV
