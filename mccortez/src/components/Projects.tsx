@@ -2,29 +2,29 @@ import { HiArrowTopRightOnSquare } from "react-icons/hi2";
 
 import portfolioImage from "../img/1.png";
 import todoImage from "../img/2.png";
+import masterImage from "../img/2.png";
 
 export function Projects() {
   const projects = [
     {
       title: "Portfólio",
-      description: "ReactJs e Tailwind CSS",
+      description: "Meu portfólio - ReactJs e Tailwind CSS",
       image: portfolioImage,
-      link: "https://marcelocarlini.github.io/react-portfolio/",
+      link: "https://mccortez.vercel.app/",
       colSpan: "col-span-1",
     },
     {
       title: "Todo",
-      description: "React",
+      description: "Lista de tarefas - React",
       image: todoImage,
-      link: "https://marcelocarlini.github.io/todo/",
+      link: "https://todo-jet-beta.vercel.app/",
       colSpan: "col-span-1 md:col-span-1",
     },
     {
-      title: "Projeto 3",
-      description: "Descrição do projeto 3",
-      image:
-        "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
-      link: "#",
+      title: "Master Chefe",
+      description: "Gerador de receitas com IA - React + API|ChatGPT OpenAI",
+      image: masterImage,
+      link: "https://masterchefapp.netlify.app/",
       colSpan: "col-span-1 md:col-span-1",
     },
   ];

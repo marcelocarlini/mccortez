@@ -1,14 +1,14 @@
 import { HiDownload } from "react-icons/hi";
 import curriculoPDF from "/images/curriculo.pdf";
 export function Hero() {
-  const handleDownload = () => {
+  /* const handleDownload = () => {
     const downloadLink = document.createElement("a");
     downloadLink.href = curriculoPDF;
     downloadLink.download = "curriculo.pdf";
     document.body.appendChild(downloadLink);
     downloadLink.click();
     document.body.removeChild(downloadLink);
-  };
+  }; */
   return (
     <section className="bg-gradient-to-tr from-black to-gray-900 text-white">
       <div className="container mx-auto max-w-4x1 p-2 py-12 flex flex-col md:flex-row">
