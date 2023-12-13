@@ -14,7 +14,7 @@ export function Hero() {
         <div className="basis-1/2">
           <h1 className="mb-6 text-center md:text-left">
             <span className="font-handwriting block text-3xl text-center md:text-left">
-              Olá, me chamo
+              Olá, me chamo teste 123
             </span>
             <span className="font-headlinetext text-5xl font-semibold">
               Marcelo
