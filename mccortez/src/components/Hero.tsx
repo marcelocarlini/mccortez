@@ -1,8 +1,9 @@
 import { HiDownload } from "react-icons/hi";
+import curriculoPDF from "/images/curriculo.pdf";
 export function Hero() {
   const handleDownload = () => {
     const downloadLink = document.createElement("a");
-    downloadLink.href = "./public/images/curriculo.pdf";
+    downloadLink.href = curriculoPDF;
     downloadLink.download = "curriculo.pdf";
     document.body.appendChild(downloadLink);
     downloadLink.click();
@@ -14,7 +15,7 @@ export function Hero() {
         <div className="basis-1/2">
           <h1 className="mb-6 text-center md:text-left">
             <span className="font-handwriting block text-3xl text-center md:text-left">
-              Olá, me chamo teste 123
+              Olá, me chamo
             </span>
             <span className="font-headlinetext text-5xl font-semibold">
               Marcelo
