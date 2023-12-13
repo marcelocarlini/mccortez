@@ -2,7 +2,7 @@ import { HiArrowTopRightOnSquare } from "react-icons/hi2";
 
 import portfolioImage from "../img/1.png";
 import todoImage from "../img/2.png";
-import masterImage from "../img/2.png";
+import masterImage from "../img/3.png";
 
 export function Projects() {
   const projects = [
@@ -22,7 +22,7 @@ export function Projects() {
     },
     {
       title: "Master Chefe",
-      description: "Gerador de receitas com IA - React + API|ChatGPT OpenAI",
+      description: "Receitas com IA - React + ChatGPT OpenAI",
       image: masterImage,
       link: "https://masterchefapp.netlify.app/",
       colSpan: "col-span-1 md:col-span-1",
