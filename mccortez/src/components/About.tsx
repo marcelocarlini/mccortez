@@ -9,12 +9,13 @@ export function About() {
           <span className="font-handwriting text 4xl">Mim</span>
         </h2>
         <p className="relative text-sm text-gray-600">
-          Olá! Sou um cara apaixonado por tecnologia, formado em Análise e
-          Desenvolvimento de Sistemas. Embora eu ainda não tenha trabalhado
-          profissionalmente como desenvolvedor, tenho conhecimento sólido em
-          teoria e alguma prática em tecnologias como React JS, Javascript, PHP, Laravel, HTML,
-          CSS, Bootstrap e Tailwind. Além disso, sei lidar com MySQL para
-          gerenciamento de bancos de dados.
+          Olá! Sou um entusiasta de tecnologia com formação em Análise e
+          Desenvolvimento de Sistemas. Conto com sólidos conhecimentos teóricos
+          e alguma experiência prática em tecnologias como React JS, Javascript,
+          PHP, Laravel, HTML, CSS, Bootstrap e Tailwind. Tenho habilidades em
+          lidar com o MySQL para gerenciamento de bancos de dados. Estou animado
+          para contribuir com minha paixão pela tecnologia em oportunidades
+          profissionais e aplicar meus conhecimentos adquiridos.
         </p>
         <div className="absolute left-1/2 top-3 z-0 h-10 rounded-lg bg-blue-100/40" />
       </div>

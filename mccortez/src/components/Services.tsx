@@ -5,7 +5,7 @@ export function Services() {
     {
       title: "Web",
       description:
-        "Desenvolvimento de sites e sistemas web estaticos e dinamicos com React, HTML, CSS, Bootstrap e Tailwind",
+        "Desenvolvimento de sites e sistemas web estaticos e dinamicos com React, Javascript, HTML, CSS, Bootstrap e Tailwind",
       icon: <HiComputerDesktop className="h-12 w-12" />,
     },
     {

@@ -40,7 +40,7 @@ export function Projects() {
               <span className="font-handwriting text-4xl">Portfólio</span>
             </h2>
             <p className="relative text-sm text-gray-400">
-              Algunjs dos projetos pessoais que já realizei ao longo da minha
+              Alguns dos projetos pessoais que já realizei ao longo da minha
               trajetória como programador.
             </p>
           </div>
