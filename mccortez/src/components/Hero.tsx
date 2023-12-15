@@ -26,11 +26,11 @@ export function Hero() {
           </h1>
           <h2 className="font-semibold flex items-center gap-2 text-center md:text-left">
             <div className="h-1 w-12 roudend-full bg-blue-800" />
-            Desenvolvedor React.js Front-end
+            Desenvolvedor Fullstack
           </h2>
           <p className="text-gray-400 my-6 text-center md:text-left">
-            Decolando na Carreira: Desenvolvedor Front-end React em Início de
-            Jornada Rumo à Excelência Digital.
+            Decolando na Carreira: Desenvolvedor Fullstack Rumo à Excelência
+            Digital com Foco em React JS, Node JS e Tecnologias Complementares.
           </p>
 
           <div className="flex items-center justify-center md:justify-start gap-2">
