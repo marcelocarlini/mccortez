@@ -10,21 +10,21 @@ export function Projects() {
   const projects = [
     {
       title: "Portfólio",
-      description: "Meu portfólio - ReactJs e Tailwind CSS",
+      description: "React Js e Tailwind CSS",
       image: portfolioImage,
       link: "https://mccortez.vercel.app/",
       colSpan: "col-span-1",
     },
     {
-      title: "Todo",
-      description: "Lista de tarefas - React",
+      title: "Lista de Tarefas",
+      description: "React JS",
       image: todoImage,
       link: "https://todo-jet-beta.vercel.app/",
       colSpan: "col-span-1 md:col-span-1",
     },
     {
       title: "Master Chefe",
-      description: "Receitas com IA - React + ChatGPT OpenAI",
+      description: "React JS + ChatGPT OpenAI",
       image: masterImage,
       link: "https://masterchefapp.netlify.app/",
       colSpan: "col-span-1 md:col-span-1",
