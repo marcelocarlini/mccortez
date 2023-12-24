@@ -3,6 +3,8 @@ import { HiArrowTopRightOnSquare } from "react-icons/hi2";
 import portfolioImage from "../img/1.png";
 import todoImage from "../img/2.png";
 import masterImage from "../img/3.png";
+import relogioImage from "../img/4.png";
+import menuImage from "../img/5.png";
 
 export function Projects() {
   const projects = [
@@ -25,6 +27,20 @@ export function Projects() {
       description: "Receitas com IA - React + ChatGPT OpenAI",
       image: masterImage,
       link: "https://masterchefapp.netlify.app/",
+      colSpan: "col-span-1 md:col-span-1",
+    },
+    {
+      title: "Relogio Digital",
+      description: "HTML + CSS + JS",
+      image: relogioImage,
+      link: "https://relogio-digital-beryl.vercel.app/",
+      colSpan: "col-span-1 md:col-span-1",
+    },
+    {
+      title: "Menu Responsivo",
+      description: "HTML + CSS + JS",
+      image: menuImage,
+      link: "https://menu-responsivo-nine.vercel.app/",
       colSpan: "col-span-1 md:col-span-1",
     },
   ];
