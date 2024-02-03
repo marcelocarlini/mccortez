@@ -5,6 +5,7 @@ import todoImage from "../img/2.png";
 import masterImage from "../img/3.png";
 import relogioImage from "../img/4.png";
 import menuImage from "../img/5.png";
+import barberImage from "../img/6.png";
 
 export function Projects() {
   const projects = [
@@ -41,6 +42,13 @@ export function Projects() {
       description: "HTML + CSS + JS",
       image: menuImage,
       link: "https://menu-responsivo-nine.vercel.app/",
+      colSpan: "col-span-1 md:col-span-1",
+    },
+    {
+      title: "Barbearia Barber",
+      description: "HTML + CSS + SASS",
+      image: barberImage,
+      link: "https://barber-kappa-three.vercel.app/#",
       colSpan: "col-span-1 md:col-span-1",
     },
   ];
