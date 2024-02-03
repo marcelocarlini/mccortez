@@ -11,7 +11,7 @@ export function Projects() {
   const projects = [
     {
       title: "Portfólio",
-      description: "React Js e Tailwind CSS",
+      description: "React Js + TS + Tailwind CSS",
       image: portfolioImage,
       link: "https://mccortez.vercel.app/",
       colSpan: "col-span-1",
