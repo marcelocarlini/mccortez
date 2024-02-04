@@ -72,8 +72,9 @@ export function Projects() {
               <span className="font-handwriting text-4xl">Portfólio</span>
             </h2>
             <p className="relative text-sm text-gray-400">
-              Alguns dos projetos pessoais que já realizei ao longo da minha
-              trajetória como programador.
+              São projetos concebidos a partir de estudos com o propósito
+              de aprimorar conhecimentos e técnicas durante minha trajetória
+              como programador.
             </p>
           </div>
           <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
