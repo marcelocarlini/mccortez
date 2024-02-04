@@ -55,7 +55,7 @@ export function Projects() {
     {
       title: "Lista de Tarefas 2",
       description: "HTML + CSS + JS",
-      image: barberImage,
+      image: tarefasImage,
       link: "https://tarefas-puce.vercel.app/",
       colSpan: "col-span-1 md:col-span-1",
     },
@@ -72,9 +72,9 @@ export function Projects() {
               <span className="font-handwriting text-4xl">Portfólio</span>
             </h2>
             <p className="relative text-sm text-gray-400">
-              São projetos concebidos a partir de estudos com o propósito
-              de aprimorar conhecimentos e técnicas durante minha trajetória
-              como programador.
+              São projetos concebidos a partir de estudos com o propósito de
+              aprimorar conhecimentos e técnicas durante minha trajetória como
+              programador.
             </p>
           </div>
           <div className="grid grid-cols-1 gap-4 md:grid-cols-3">
